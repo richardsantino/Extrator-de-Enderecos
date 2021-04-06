@@ -1,6 +1,6 @@
-# Extrator-de-Enderecos
+# Extrator de Endereços 
 
-EP2 - Linguagens Formais e Autômatos
+EP2 Expreção Regulares - Linguagens Formais e Autômatos
 
 Ciência da Computação - 5° Semestre
 
